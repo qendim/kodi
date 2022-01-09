@@ -1,0 +1,2 @@
+# kodi
+http://kodialbania/kodi/
